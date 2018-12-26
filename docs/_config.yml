@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-name: X
-site.name: Y
+layout: default
+title: Рависсант-Пучково
+description: ККК Рависсант в деревне Пучково
