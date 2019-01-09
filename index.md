@@ -5,7 +5,7 @@ title: Добро пожаловать
 
 ![Ravissant](IMG_20170816_170119.vr.jpg)
 
-## Координаты
+## Координаты поселка
 
 <https://goo.gl/maps/SxG4VRpE7Nk>
 

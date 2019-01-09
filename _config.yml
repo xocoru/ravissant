@@ -2,4 +2,7 @@ theme: jekyll-theme-cayman
 layout: default
 title: Рависсант-Пучково
 description: Поселок коттеджей и таунхаусов в деревне Пучково
-lang: ru-RU
+lang: ru_RU
+author: Arthur Ivanov
+plugins:
+  - jekyll-seo-tag
