@@ -25,8 +25,8 @@ title: Получение официального адреса
 
 Департамент Городского Имущества г.Москвы выпустил следующие распоряжения:
 
-* Распоряжение 17265 от 14.06.2017 (стр.25, строки с 302 до стр.28, строка 331)
-Все дома на ул. Прудная (д.Пучково) теперь являются домами на ул. Троицкая (<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)
+* [Распоряжение 17265 от 14.06.2017 (стр.25, строки с 302 до стр.28, строка 331)](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)
+Все дома на ул. Прудная (д.Пучково) теперь являются домами на ул. Троицкая
 
 * Распоряжение №7464 от 27.02.2019 (<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=54609485>)
 * Распоряжение №10588 от 20.03.2019 (<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=55360034>)
