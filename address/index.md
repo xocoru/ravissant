@@ -44,52 +44,52 @@
 |Кадастровый номер|Старый адрес|Новый адрес|Адрес дома получен ?|
 |-----------------|------------|-----------|--------------------|
 |77:18:0191401:7|ул. Новотроицкая, д.1|ул. Троицкая, д. 107|[Да, №7464](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=54609485>)|
-|77:18:0191401:8|ул. Новотроицкая, д.2 корпус 1|ул. Троицкая, д. 107 к1||
-|77:18:0191401:9|ул. Новотроицкая, д.2, корпус 2|ул. Троицкая, д. 107 к2||
-|77:18:0191401:10|ул. Новотроицкая, д.3, корпус 1|ул. Троицкая, д. 107 к3|Да, №16801|
-|77:18:0191401:14|ул. Новотроицкая, д.3, корпус 2|ул. Троицкая, д. 107 к4|Да, №16801|
-|77:18:0191401:15|ул. Новотроицкая, д.4, корпус 1|ул. Троицкая, д. 107 к5|[Да, №10588](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=55360034>)|
-|77:18:0191401:16|ул. Новотроицкая, д.4, корпус 2|ул. Троицкая, д. 107 к6|[Да, №10588](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=55360034>)|
-|77:18:0191401:17|ул. Новотроицкая, д.4, корпус 3|ул. Троицкая, д. 107 к7||
-|77:18:0191401:18|ул. Новотроицкая, д.5, корпус 1|ул. Троицкая, д. 107 к8||
-|77:18:0191401:19|ул. Новотроицкая, д.5, корпус 2|ул. Троицкая, д. 107 к9|Да, №16801|
-|77:18:0191401:20|ул. Новотроицкая, д.5, корпус 3|ул. Троицкая, д. 107 к10||
-|77:18:0191401:21|ул. Новотроицкая, д.6, корпус 1|ул. Троицкая, д. 107 к11||
-|77:18:0191401:22|ул. Новотроицкая, д.6, корпус 2|ул. Троицкая, д. 107 к12||
-|77:18:0191401:23|ул. Новотроицкая, д.6, корпус 3|ул. Троицкая, д. 107 к13||
-|77:18:0191401:24|ул. Новотроицкая, д.7, корпус 1|ул. Троицкая, д. 107 к14||
-|77:18:0191401:25|ул. Новотроицкая, д.7, корпус 2|ул. Троицкая, д. 107 к15||
-|77:18:0191401:26|ул. Новотроицкая, д.8|ул. Троицкая, д. 107 к16||
+|77:18:0191401:8|ул. Новотроицкая, д.2к1|ул. Троицкая, д. 107к1||
+|77:18:0191401:9|ул. Новотроицкая, д.2к2|ул. Троицкая, д. 107к2||
+|77:18:0191401:10|ул. Новотроицкая, д.3к1|ул. Троицкая, д. 107к3|Да, №16801|
+|77:18:0191401:14|ул. Новотроицкая, д.3к2|ул. Троицкая, д. 107к4|Да, №16801|
+|77:18:0191401:15|ул. Новотроицкая, д.4к1|ул. Троицкая, д. 107к5|[Да, №10588](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=55360034>)|
+|77:18:0191401:16|ул. Новотроицкая, д.4к2|ул. Троицкая, д. 107к6|[Да, №10588](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=55360034>)|
+|77:18:0191401:17|ул. Новотроицкая, д.4к3|ул. Троицкая, д. 107к7||
+|77:18:0191401:18|ул. Новотроицкая, д.5к1|ул. Троицкая, д. 107к8||
+|77:18:0191401:19|ул. Новотроицкая, д.5к2|ул. Троицкая, д. 107к9|Да, №16801|
+|77:18:0191401:20|ул. Новотроицкая, д.5к3|ул. Троицкая, д. 107к10||
+|77:18:0191401:21|ул. Новотроицкая, д.6к1|ул. Троицкая, д. 107к11||
+|77:18:0191401:22|ул. Новотроицкая, д.6к2|ул. Троицкая, д. 107к12||
+|77:18:0191401:23|ул. Новотроицкая, д.6к3|ул. Троицкая, д. 107к13||
+|77:18:0191401:24|ул. Новотроицкая, д.7к1|ул. Троицкая, д. 107к14||
+|77:18:0191401:25|ул. Новотроицкая, д.7к2|ул. Троицкая, д. 107к15||
+|77:18:0191401:26|ул. Новотроицкая, д.8|ул. Троицкая, д. 107к16||
 |77:18:0191408:268|Прудная д.1|Троицкая д.101|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:254|Прудная д.2 корпус 1|Троицкая д.102 корпус 1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:261|Прудная д.2 корпус 2|Троицкая д.102 корпус 2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:64|Прудная д.2 корпус 3|Троицкая д.102 корпус 3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:154|Прудная д.2 корпус 4|Троицкая д.102 корпус 4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:178|Прудная д.2 корпус 5|Троицкая д.102 корпус 5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:246|Прудная д.3 корпус 1|Троицкая д.103 корпус 1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:75|Прудная д.3 корпус 2|Троицкая д.103 корпус 2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:216|Прудная д.3 корпус 3|Троицкая д.103 корпус 3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:46|Прудная д.3 корпус 4|Троицкая д.103 корпус 4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:195|Прудная д.3 корпус 5|Троицкая д.103 корпус 5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:125|Прудная д.4 корпус 1|Троицкая д.104 корпус 1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:226|Прудная д.4 корпус 2|Троицкая д.104 корпус 2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:185|Прудная д.4 корпус 3|Троицкая д.104 корпус 3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:136|Прудная д.4 корпус 4|Троицкая д.104 корпус 4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:205|Прудная д.4 корпус 5|Троицкая д.104 корпус 5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:90|Прудная д.5 корпус 1|Троицкая д.105 корпус 1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:55|Прудная д.5 корпус 2|Троицкая д.105 корпус 2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:1|Прудная д.5 корпус 3|Троицкая д.105 корпус 3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:118|Прудная д.5 корпус 4|Троицкая д.105 корпус 4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:237|Прудная д.5 корпус 5|Троицкая д.105 корпус 5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:8|Прудная д.5 корпус 6|Троицкая д.105 корпус 6|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:17|Прудная д.5 корпус 7|Троицкая д.105 корпус 7|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:99|Прудная д.6 корпус 1|Троицкая д.106 корпус 1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:35|Прудная д.6 корпус 2|Троицкая д.106 корпус 2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:170|Прудная д.6 корпус 3|Троицкая д.106 корпус 3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:147|Прудная д.6 корпус 4|Троицкая д.106 корпус 4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:24|Прудная д.6 корпус 5|Троицкая д.106 корпус 5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:81|Прудная д.6 корпус 6|Троицкая д.106 корпус 6|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
-|77:18:0191408:163|Прудная д.6 корпус 7|Троицкая д.106 корпус 7|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:254|Прудная д.2к1|Троицкая д.102к1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:261|Прудная д.2к2|Троицкая д.102к2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:64|Прудная д.2к3|Троицкая д.102к3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:154|Прудная д.2к4|Троицкая д.102к4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:178|Прудная д.2к5|Троицкая д.102к5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:246|Прудная д.3к1|Троицкая д.103к1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:75|Прудная д.3к2|Троицкая д.103к2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:216|Прудная д.3к3|Троицкая д.103к3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:46|Прудная д.3к4|Троицкая д.103к4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:195|Прудная д.3к5|Троицкая д.103к5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:125|Прудная д.4к1|Троицкая д.104к1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:226|Прудная д.4к2|Троицкая д.104к2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:185|Прудная д.4к3|Троицкая д.104к3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:136|Прудная д.4к4|Троицкая д.104к4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:205|Прудная д.4к5|Троицкая д.104к5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:90|Прудная д.5к1|Троицкая д.105к1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:55|Прудная д.5к2|Троицкая д.105к2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:1|Прудная д.5к3|Троицкая д.105к3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:118|Прудная д.5к4|Троицкая д.105к4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:237|Прудная д.5к5|Троицкая д.105к5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:8|Прудная д.5к6|Троицкая д.105к6|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:17|Прудная д.5к7|Троицкая д.105к7|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:99|Прудная д.6к1|Троицкая д.106к1|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:35|Прудная д.6к2|Троицкая д.106к2|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:170|Прудная д.6к3|Троицкая д.106к3|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:147|Прудная д.6к4|Троицкая д.106к4|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:24|Прудная д.6к5|Троицкая д.106к5|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:81|Прудная д.6к6|Троицкая д.106к6|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
+|77:18:0191408:163|Прудная д.6к7|Троицкая д.106к7|[Да, №17265](<https://dgi-2-trp.mos.ru/DgiDocReestr2/DocumentsHandler.ashx/DownloadFile?id=22769448>)|
 
 ### Земельные участки
 
